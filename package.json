@@ -9,7 +9,7 @@
 	},
 	"author": "Luke Bolton",
 	"description": "A project to pass some time in Chorley hospital",
-	"keywords": ["groovy", "oooooo", "breezy wheelz", "freecodecamp"]
+	"keywords": ["groovy", "oooooo", "breezy wheelz", "freecodecamp"],
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
