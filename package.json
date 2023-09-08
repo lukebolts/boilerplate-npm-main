@@ -7,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Luke Bolton",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
