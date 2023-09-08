@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "Luke Bolton",
+	"description": "A project to pass some time in Chorley hospital",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
